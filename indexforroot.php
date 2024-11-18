@@ -15,7 +15,7 @@
 <h2>GIT SERVICES FOR PT JVCKENWOOD ELECTRONICS INDONESIA</h2>
 <ul class="nav">
   <li class="nav-item">
-    <a class="nav-link active" aria-current="page" href="http://103.164.195.166/custom" target="_blank" >JKEI IT INVENTORY</a>
+    <a class="nav-link active" aria-current="page" href="https://svr1.jkei.jvckenwood.com/custom" target="_blank" >JKEI IT INVENTORY</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" href="http://34.101.227.197/jeinwebmysql" target="_blank">JKEI EDI SYSTEM</a>
